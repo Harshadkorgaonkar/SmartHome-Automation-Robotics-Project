@@ -1,6 +1,6 @@
 
 ![Home-Automation Banner](image1.png)
-# 🏠 Home Automation Robotics System
+# 🏠 Home Automation - Robotics 
 
 ## 📌 Project Overview
 
